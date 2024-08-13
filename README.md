@@ -1,2 +1,2 @@
 # Random-Number-Guess
-I developed a game named as random number guess in C language.
+I developed a game program named as random number guess in C language.
